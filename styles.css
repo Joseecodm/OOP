@@ -1,0 +1,27 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 20px;
+  background-color: #ffffff;
+}
+
+h1 {
+  text-align: center;
+  color: #000000;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.pilar {
+  border: 1px solid #d3d3d3;
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #93a9f0;
+}
+
+.pilar h2 {
+  color: #000000;
+}
+
+.pilar p {
+  color: #000000;
+}
